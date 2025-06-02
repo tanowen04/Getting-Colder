@@ -8,8 +8,8 @@ your fight or flight response. Have you ever played or watched something horrify
 got chills down your spine? Well, the reason this happens is because horror makes you
 anxious. When you are anxious, your body suffers from what is called “Anxiety chills”.
 These chills are a result of your body directing blood flow away from your extremities
-and into your vital organs, which is necessary in a survival situation. The name Getting
-Colder is referring to the person you are controlling, who is trying to survive in a forest.
+and into your vital organs, which is necessary in a survival situation. The name "Getting
+Colder" is referring to the person you are controlling, who is trying to survive in a forest.
 Throughout the game, the person you are controlling will continue to get colder and
 colder until you do something about it (indicated by how bright the screen is). My game
 is a great way for young adults and teenagers to fend off the heat during the hot
